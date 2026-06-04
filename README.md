@@ -48,15 +48,15 @@ It calculates the Maclaurin series for sine function using iterative summation a
 
 - **sin(30°)**
 
-![sin30](images/sin30.png)
+![sin30](images/sin30.PNG)
 
 - **sin(45°)**
 
-![sin45](images/sin45.png)
+![sin45](images/sin45.PNG)
 
 - **sin(90°)**
 
-![sin90](images/sin90.png)
+![sin90](images/sin90.PNG)
 
 ---
 
